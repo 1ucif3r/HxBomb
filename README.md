@@ -89,7 +89,7 @@ Toilet cannot be installed yet. But HxBomb does still work.
 
 # Run HxBomb:
 
-sudo bash HxBomb.sh
+sudo bash HxBomb.sh(After installing first see the ".sh"file in HxBomb folder Then use Command based on that(either HxBomb.sh or HxBomd.sh))
 
 
 CONTRIBUTORS:
