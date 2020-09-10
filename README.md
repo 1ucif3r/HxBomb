@@ -49,7 +49,7 @@ pkg install python
 git clone https://github.com/1ucifer/HxBomb.git
 cd HxBomb
 chmod +x HxBomd.sh
-./HxTBomd.sh
+./HxBomd.sh
 
 > For Linux:
 
