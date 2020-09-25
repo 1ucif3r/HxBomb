@@ -1,4 +1,4 @@
-# HxBomb v1.7b
+# HxBomb v1.0b
 An open-source SMS/call bomber for Linux And Termux.
 
 
@@ -92,17 +92,12 @@ Toilet cannot be installed yet. But HxBomb does still work.
 sudo bash HxBomb.sh(After installing first see the ".sh"file in HxBomb folder Then use Command based on that(either HxBomb.sh or HxBomd.sh))
 
 
-CONTRIBUTORS:
+CREDIT:
 
     1ucif3r
     [-] Mail At: hknja1832853kminjafcku69@protonmail.com
 
-    Suman Kumar Reddy
-    [-] Check Instagram At: https://www.instagram.com/suman_reddy_official/
-
-    Arijit Mohapatro
-    [-] Check Instagram At: https://www.instagram.com/thearijit016/
-
+    
     Hritik Kumbhar
     [-] Mail At: hritikkumbhar132@gmail.com
-    [-] Check Instagram At:https://www.instagram.com/i__am__hritik_/
+    [-] Check Instagram At:https://www.instagram.com/th3_1ucif3r
